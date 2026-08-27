@@ -16,3 +16,32 @@
 7. The WriteLine() part is called a method. The parentheses after the method's name. The parentheses are known as the method invocation operator.
 
 8.  The **semicolon** is the end of statement operator. A statement is a complete instruction in C#. The semicolon tells the compiler that you've finished entering the command.
+
+9. There are different literal data types in C#:-
+    1. char -> For a single alphanumeric character, surrounded by a **single quotes**. The term char is short for character.                In C#, this data type is officially named "char", but frequently referred to as a "character".
+                eg:- Console.WriteLine('b');
+       Note:- double quotation marks creates a string data type.
+       
+    2. int ->  In C#, this data type is officially named "int", but frequently referred to as "integer".
+               eg:- Console.WriteLine(123);
+
+    3. float -> A floating-point number is a number that contains a decimal, for example 3.14159. C# supports three data                     types to represent decimal numbers: float, double, and decimal. Each type supports varying degrees of                        precision.
+                                Float Type    Precision
+                               ----------------------------
+                               float         ~6-9 digits
+                               double        ~15-17 digits
+                               decimal        28-29 digits
+    
+    4. 
+  
+
+
+
+
+
+
+
+
+
+
+
