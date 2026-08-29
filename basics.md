@@ -3,7 +3,7 @@
 
 2. C# is a case-sensitive language, meaning that the C# compiler considers the words console and Console as different as the words cat and dog.
 
-3. Always use " ", no ' '. As single quotes are not allowed. When the phrase is surrounded by double-quotation marks in your C# code, it's called a literal string. 
+3. Always use " ", no ' '. As single quotes is allowed for char datatype. When the phrase is surrounded by double-quotation marks in your C# code, it's called a literal string. 
 
 4. Console.WriteLine("hello") -> Print the next console data **in next line**.
    Console.Write("hello") -> Print the next console in the **same line.**
