@@ -25,14 +25,29 @@
     2. int ->  In C#, this data type is officially named "int", but frequently referred to as "integer".
                eg:- Console.WriteLine(123);
 
-    3. float -> A floating-point number is a number that contains a decimal, for example 3.14159. C# supports three data                     types to represent decimal numbers: float, double, and decimal. Each type supports varying degrees of                        precision.
+    3. float -> A floating-point number is a number that contains a decimal, for example 3.14159. C# supports three data                     types to represent decimal numbers: float, double, and decimal. Each type supports varying **degrees of                        precision**.
                                 Float Type    Precision
                                ----------------------------
                                float         ~6-9 digits
                                double        ~15-17 digits
                                decimal        28-29 digits
     
-    4. 
+    4. We can add literal in any number to denote its datattype;-
+       1. float - > Console.WriteLine(0.35f); OR Console.WriteLine(0.25F);
+       2. double -> With no literal, the compiler takes it to default as double
+       3. decimal - > Console.WriteLine(0.34m); OR Console.WriteLine(0.34M);
+      
+    5.  bool literal - > representing either true or false, often referred as "Boolean".
+       
+    6.  The main takeaway is that there are many data types, but you'll focus on just a few for now:
+
+           - string for words, phrases, or any alphanumeric data for presentation, not calculation
+           - char for a single alphanumeric character
+           - int for a whole number
+           - decimal for a number with a fractional component
+           - bool for a true/false value
+
+    7. 
   
 
 
