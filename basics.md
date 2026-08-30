@@ -47,7 +47,7 @@
            - decimal for a number with a fractional component
            - bool for a true/false value
 
-    7. 
+  7. 
   
 
 
