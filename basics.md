@@ -47,7 +47,10 @@
            - decimal for a number with a fractional component
            - bool for a true/false value
 
-  7. 
+  7. An implicitly typed local variable is created by using the var keyword followed by a variable initialization. For example:
+     var msg = "hello";
+
+  8. 
   
 
 
