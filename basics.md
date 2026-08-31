@@ -49,8 +49,9 @@
 
   7. An implicitly typed local variable is created by using the var keyword followed by a variable initialization. For example:
      var msg = "hello";
+     it must be assigned a value while initialization.
 
-  8. 
+
   
 
 
