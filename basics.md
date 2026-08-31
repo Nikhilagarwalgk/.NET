@@ -28,9 +28,9 @@
     3. float -> A floating-point number is a number that contains a decimal, for example 3.14159. C# supports three data                     types to represent decimal numbers: float, double, and decimal. Each type supports varying **degrees of                        precision**.
                                 Float Type    Precision
                                ----------------------------
-                               float         ~6-9 digits
-                               double        ~15-17 digits
-                               decimal        28-29 digits
+                               float         ~6-9 digits,
+                               double        ~15-17 digits,
+                               decimal        28-29 digits,
     
     4. We can add literal in any number to denote its datattype;-
        1. float - > Console.WriteLine(0.35f); OR Console.WriteLine(0.25F);
