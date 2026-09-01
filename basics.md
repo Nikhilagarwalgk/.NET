@@ -52,6 +52,11 @@
      it must be assigned a value while initialization.
 
   8.  **Escape character sequence**  is an instruction to the runtime to insert a special character that will affect the output of            your string. In C#, the escape character sequence begins with a backslash \ followed by the character you're escaping The \n          sequence will add a new line, and a \t sequence will add a tab.
+  9.  1. Use character escape sequences when you need to insert a special character into a literal string, like a tab \t, new line              \n, or a double quotation mark \".
+      2. Use an escape character for the backslash \\ when you need to use a backslash in all other scenarios.
+      3.Use the @ directive to create a verbatim string literal that keeps all whitespace formatting and backslash characters in a            string.
+      4. Use the \u plus a four-character code to represent Unicode characters (UTF-16) in a string.
+      5. Unicode characters may not print correctly depending on the application.
 
 
   
