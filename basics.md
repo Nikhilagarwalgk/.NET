@@ -51,6 +51,8 @@
      var msg = "hello";
      it must be assigned a value while initialization.
 
+  8.  **Escape character sequence**  is an instruction to the runtime to insert a special character that will affect the output of            your string. In C#, the escape character sequence begins with a backslash \ followed by the character you're escaping The \n          sequence will add a new line, and a \t sequence will add a tab.
+
 
   
 
