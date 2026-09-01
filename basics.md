@@ -57,6 +57,13 @@
       3.Use the @ directive to create a verbatim string literal that keeps all whitespace formatting and backslash characters in a            string.
       4. Use the \u plus a four-character code to represent Unicode characters (UTF-16) in a string.
       5. Unicode characters may not print correctly depending on the application.
+    
+   10. In math, PEMDAS is an acronym that helps students remember the order of operations. The order is:
+
+       - Parentheses (whatever is inside the parenthesis is performed first)
+       - Exponents
+       - Multiplication and Division (from left to right)
+       - Addition and Subtraction (from left to right)
 
 
   
