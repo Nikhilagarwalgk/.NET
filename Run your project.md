@@ -2,13 +2,15 @@
     - Compilation -> dotnet build
     - Run ur project -> dotnet run
 
-2. Initializing a new string:-
+2. Initializing a new string:- There can be [] or old syntax as {} while adding value in array
    ```
            string[] fraudulentOrderIDs = new string[3];
 
             fraudulentOrderIDs[0] = "A123";
             fraudulentOrderIDs[1] = "B456";
             fraudulentOrderIDs[2] = "C789"; 
+
+           int[] sophiaScores = new int[] { 90, 86, 87, 98, 100 };
      ```
 3. Looping through an array using foreach
 ```
